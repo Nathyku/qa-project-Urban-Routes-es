@@ -14,5 +14,5 @@ Este proyecto tiene como objetivo automatizar las pruebas de la plataforma "Urba
    ```bash
    git clone git@github.com:username/qa-project-Urban-Routes-es.git
  2. Abre el proyecto en tu editor Pycharm
- 3. Para ejecutar las pruebas, utilice el comando pytest tes_main.py desde la terminal, asegurándose de estar en el directorio raíz del proyecto: C:\Users\aolav\PycharmProjects\qa-project-Urban-Routes-es
+ 3. Para ejecutar las pruebas, utiliza el siguiente comando desde la raíz del proyecto: pytest test_main.py
  4. Las pruebas se ejecutarán y verás los resultados en la terminal
